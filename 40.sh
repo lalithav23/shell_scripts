@@ -16,4 +16,3 @@ do
 	echo "$name $age"
 	fi
 done <<< "$data"
-
