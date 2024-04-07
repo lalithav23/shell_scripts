@@ -15,3 +15,4 @@ do
 done
 echo "The largest number in an array is $largest"
 echo "The smallest number in an array is $smallest"
+
